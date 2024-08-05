@@ -5,6 +5,8 @@
 # Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" /> 
 
+# Para ver mais projetos em que trabalhei, clique aqui: https://github.com/Our-time-Fatec
+
 <div>
 <a href="https://github.com/andreluke">
 <img loading="lazy" height="220em" src="https://github-readme-stats.vercel.app/api?username=andreluke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +14,7 @@
 <div>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluke&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-          
+
           
           
           
