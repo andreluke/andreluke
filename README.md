@@ -13,7 +13,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluke&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div>
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreluke&theme=dark&hide_border=false"/>
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreluke&theme=dark&border_radius=8&locale=pt_BR&mode=weekly&card_width=500&card_height=200"/>
 </div>
           
           
