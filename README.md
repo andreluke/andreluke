@@ -12,7 +12,9 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluke&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluke&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-
+<div>
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreluke&theme=dark&hide_border=false"/>
+</div>
           
           
           
