@@ -13,8 +13,8 @@ Grande parte dos repositórios que você vai ver aqui são projetos de faculdade
    <img class="tech-icon" align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
   <img class="tech-icon" align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
   <img class="tech-icon" align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
+  <img class="tech-icon" align="center" alt="react native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img class="tech-icon" align="center" alt="c++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> 
-  <img class="tech-icon" align="center" alt="react native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
   <img class="tech-icon" align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
   <img class="tech-icon" align="center" alt="typeorm" src="https://img.shields.io/badge/TypeORM-FF8C00?style=for-the-badge&logo=typeorm&logoColor=white"/> 
   <img class="tech-icon" align="center" alt="jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
@@ -22,7 +22,7 @@ Grande parte dos repositórios que você vai ver aqui são projetos de faculdade
   <img class="tech-icon" align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
   <img class="tech-icon" align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
   <img class="tech-icon" align="center" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
-</div><br>
+</div><br/>
 
 ## 🌟 Conquistas
 
