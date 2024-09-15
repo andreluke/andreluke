@@ -52,3 +52,4 @@ Grande parte dos repositórios que você vai ver aqui são projetos de faculdade
   </a>
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/andreluke/andreluke/output/github-contribution-grid-snake-dark.svg)
