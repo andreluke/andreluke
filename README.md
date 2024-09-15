@@ -52,5 +52,5 @@ Grande parte dos repositórios que você vai ver aqui são projetos de faculdade
   </a>
 </div>
 
-
+<img src="https://raw.githubusercontent.com/andreluke/andreluke/output/snake.svg" alt="Snake animation" />
 
