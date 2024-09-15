@@ -1,5 +1,5 @@
 <h2>👋 Olá, seja bem-vindo ao meu GitHub!</h2>
-Aqui você vai me encontrar mergulhando de cabeça no mundo da programação! 🚀
+Aqui você vai me encontrar mergulhando de cabeça no mundo da programação! 🚀<br/>
 Estou sempre explorando novas tecnologias, aprendendo com cada erro e me aprimorando a cada desafio.
 Grande parte dos repositórios que você vai ver aqui são projetos de faculdade ou testes experimentais que faço para entender melhor as linguagens e ferramentas com as quais trabalho.
 
