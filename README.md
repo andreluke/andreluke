@@ -7,7 +7,7 @@ Grande parte dos repositórios que você vai ver aqui são projetos de faculdade
   <img src="https://komarev.com/ghpvc/?username=andreluke&color=blue&style=flat-square">
 </p>
 
-<h2 align="center">💡 O que estou aprendendo no momento:</h2>
+<h2>💡 O que estou aprendendo no momento:</h2>
 <div align="left" style="display: inline_block"><br> 
  
    <img class="tech-icon" align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
