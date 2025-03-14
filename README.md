@@ -16,6 +16,8 @@ Grande parte dos repositórios que você vai ver aqui são projetos de faculdade
   <img class="tech-icon" align="center" alt="react native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img class="tech-icon" align="center" alt="c++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> 
   <img class="tech-icon" align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+  <img class="tech-icon" align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img class="tech-icon" align="center" alt="github" src="https://img.shields.io/badge/-.NET%206.0-blueviol"/> 
   <img class="tech-icon" align="center" alt="typeorm" src="https://img.shields.io/badge/TypeORM-FF8C00?style=for-the-badge&logo=typeorm&logoColor=white"/> 
   <img class="tech-icon" align="center" alt="jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   <img class="tech-icon" align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
