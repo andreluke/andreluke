@@ -12,7 +12,7 @@ I also have experience with **C# and .NET**, contributing to corporate platforms
 - **APIs:** REST, JSON
 - **Databases:** SQL Server, MongoDB
 - **DevOps:** Docker, CI/CD, Azure DevOps
-- **Testing:** Cucumber, Selenium
+- **Testing:** Cucumber, Selenium, Jest
 - **Version Control:** Git
 
 ## 📂 Featured Projects
